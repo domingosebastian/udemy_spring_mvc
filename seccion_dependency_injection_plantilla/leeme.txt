@@ -1,0 +1,4 @@
+Este proyecto no tiene ningún ejercicio que debáis completar.
+ La recomendación es descargarlo y observar los comentarios en el código para completar la lección en video.
+
+Y, por supuesto, modificad todo lo que queráis para practicar lo aprendido!.
