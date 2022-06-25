@@ -1,0 +1,21 @@
+Para hacer este ejercicio debeis consultar las instrucciones en:
+
+src/test/java/org/formacion/ComponentsTests.java
+
+No debeis modificar nada del test. Todo lo que teneis que modificar está en src/main/java
+
+Debereis completar el proyecto tal como indican las instrucciones.
+
+El proyecto representa una sencilla (muuuy sencilla) tienda virtual. La clase TiendaVirtual
+es el punto de entrada usado por los clientes. Esta clase tiene un unico metodo que permite 
+comprar productos, indicados como String.
+
+TiendaVirtual debera usar, para su tarea dos clases auxiliares: Logger, donde ira registrando
+los eventos importantes (se indicaran en el test) y Almacen, que guarda el "stock" de productos.
+Cuando se compra un producto, este se debe eliminar del almacen (otra vez: en el test se daran
+indicaciones mas exactas).
+
+Id ahora al test (src/test/java/org/formacion/ComponentsTests.java) y realizad los pasos que se
+indican.
+
+¡Suerte!
