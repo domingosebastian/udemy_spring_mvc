@@ -1,0 +1,12 @@
+Projecto que muestra los aspectos basicos de resolucion de vistas.
+
+Estudia el codigo que encontraras en:
+   src/main/java/org/formacion/mvc/ListaController.java
+   
+Las vistas las encontraras en:
+   src/main/resources/templates/
+   
+Para probar la aplicacion puedes acceder a estas tres urls:
+  - http://localhost:8080/lista
+  - http://localhost:8080/defecto
+  - http://localhost:8080/dir/defecto

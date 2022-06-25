@@ -1,0 +1,3 @@
+Proyecto que ilustra los explicado en media types y message converters.
+
+Abrid la clase PersonaController y encontrareis instrucciones para probar el codigo.

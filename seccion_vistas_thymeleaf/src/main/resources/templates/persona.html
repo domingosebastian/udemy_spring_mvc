@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html  xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8" />
+</head>
+<body>
+    <h2>Datos personales</h2>
+    
+    <!-- 
+      La notacion '.' nos permite navegar por grafos de relaciones. 
+      En este ejemplo usuario.nombre se refiere a la propiedad nombre del objeto usuario
+      Fijaos que, como muchas tecnologias Java, el acceso a propiedades se puede hacer en las
+      clases que siguen el convenio de los Java Beans (metodos getter y setter)
+     -->
+    <p>Nombre : <span th:text="${usuario.nombre}">nombre de la persona</span></p>
+    <p>Municipio : <span th:text="${usuario.municipio}">Palma</span></p>
+</body>
+</html>

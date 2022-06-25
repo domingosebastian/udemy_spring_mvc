@@ -1,0 +1,4 @@
+Proyecto que muestra el paso de datos del controller al view mediante el model
+   
+Para probar la aplicacion puedes acceder a esta url:
+  - http://localhost:8080/lista

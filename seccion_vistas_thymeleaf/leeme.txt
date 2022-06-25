@@ -1,0 +1,11 @@
+Projecto que muestra los aspectos basicos de thymeleaf.
+
+Estudia el codigo que encontraras en:
+   src/main/java/org/formacion/mvc/ListaController.java
+   
+Las vistas las encontraras en:
+   src/main/resources/templates/
+   
+Para probar la aplicacion puedes acceder a estas urls:
+  - http://localhost:8080/lista
+  - http://localhost:8080/persona/1
