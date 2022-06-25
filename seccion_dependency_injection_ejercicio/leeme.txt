@@ -1,0 +1,10 @@
+Para hacer este ejercicio, debeis consultar las instrucciones en:
+
+src/test/java/org/formacion/ComponentsTests.java
+
+No debeis modificar nada del test. Todo lo que teneis que modificar esta
+en src/main/java
+
+Ejecutad el juego de pruebas para cada ejercicio que vayais haciendo
+
+Ánimos y a por el verde !
