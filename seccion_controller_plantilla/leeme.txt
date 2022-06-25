@@ -1,0 +1,4 @@
+Este es un proyecto plantilla:
+
+Este proyecto no contiene ningun ejercicio sino que sirve para disponer del codigo
+de ejemplo mostrado en las lecciones teoricas.

@@ -1,0 +1,7 @@
+Para ejecutar las pruebas, como es habitual, debereis seleccionar en el package explorer:
+src/test/java/org/formacio/ControllerTests.java
+y con el botón derecho: -> Run as ... -> JUnit test
+
+En el fichero src/test/java/org/formacio/ControllerTests.java encontrareis las instrucciones
+
+suerte !!
